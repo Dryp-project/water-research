@@ -1,2 +1,2 @@
-# water-research
-Curated repo containing the background research which informs Dryp's model.
+# Water Research
+This readme will function as a guide to all the other documents in this repository.
