@@ -60,9 +60,10 @@ _**Concluding RECOMMENDATIONs:**_
 - To anticipate and adapt to changing circumstance.
 
 - To all assume responsibility for action: There is a need for responsible action and involvement at all levels of society. Individuals at community level should be encouraged and given the means to take responsibility for their own problems. Likewise, at local and national levels, governments must take their share of responsibility. At international levels, responsibility must be taken to set goals and targets towards which the world should strive, and to assess the global situations with a view to sharing knowledge.
+
 -------------------------------------------------------------------------------------------------------------------------------------
 
-4. [Konikow, Leonard F. “Groundwater Depletion in the United States (1900−2008).” Scientific Investigations Report, 2013, doi:10.3133/sir20135079.](link)
+4. [Konikow, Leonard F. “Groundwater Depletion in the United States (1900−2008).” Scientific Investigations Report, 2013, doi:10.3133/sir20135079.](https://github.com/Dryp-project/water-research/blob/master/2013%20-%20Groundwater%20Depletion%20in%20the%20United%20States%20(1900-2008).pdf)
 
 
 >**"This study assessed long-term groundwater depletion in 40 separate aquifer systems or subareas, and one land use category. The cumulative volume of groundwater depletion in the United States during the 20th century is large—totaling about 800 cubic kilometers (km3) and increasing by an additional 25 percent during 2001–2008 (to a total volume of approximately 1,000 km3)...This large volume of depletion represents a serious problem in the United States because much of this storage loss cannot be easily or quickly recovered and affects the sustainability of some critical water supplies and base flow to streams, among other effects."**
@@ -70,6 +71,10 @@ _**Concluding RECOMMENDATIONs:**_
 >"In addition to widely recognized adverse environmental effects of groundwater depletion, the depletion also impacts communities dependent on groundwater resources in that the continuation of depletion at observed rates makes the water supply unsustainable in the long term. However, depletion itself must certainly be unsustainable and the observed rates of depletion must eventually decrease as economic and physical constraints lead to reduced levels of extraction. Yet the data in table 2 and figure 57 demonstrate that the rates of depletion for some of the major aquifer system and land use categories dur-ing 2001–2008 are the highest since 1900, and in fact account for 25 percent of the total depletion during the 108-year period. Nevertheless, the rate of depletion is leveling off or becoming self-limiting in a number of areas, most notably the western alluvial basins (since 1980) and to a lesser degree the Central Valley (since the early 1990s)."  
 
 >"Konikow (2011) also notes that oceans represent the ultimate sink for essentially all depleted groundwater. The surface area of the oceans is approximately 3.61×108 km2 (Duxbury and others, 2000). If the estimated volumes of depletion were spread across the surface of the oceans, it would account for _**approximately 2.2 mm of sea-level rise from 1900 through 2000 and 2.8 mm of sea-level rise from 1900 through 2008."**_
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
