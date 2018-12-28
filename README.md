@@ -30,7 +30,7 @@ This readme will function as a guide to all the other documents in this reposito
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-3. [“Water a Shared Responsibility.” The United Nations World Water Development Report, Mar. 2006.](link)
+3. [“Water a Shared Responsibility.” The United Nations World Water Development Report, Mar. 2006.](https://www.notion.so/dryp/2006-Water-as-a-Shared-Responsibility-UNESCO-53d15b462ed04a04a0501812c1635caa#49143bb5fa224d5ca3f6db7ea47e723f)
 
 >“The challenges for government agencies to link to NGOs and the private sector for resolving water issues further complicate management and decision-making. The task of managing water becomes even more complex when rivers flow from one country to another. The building of cooperative upstream-downstream relationships is becoming increasingly important with close to half of the world's people living in river basins or above aquifers that cross international borders.”  
 
