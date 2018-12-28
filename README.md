@@ -77,16 +77,16 @@ _**Concluding RECOMMENDATIONs:**_
 
 5. [Fredrick, Kenneth D. “Balancing Water Supplies and Demands: The Role of Management in a World of Increasing Scarcity.” World Bank Technical Paper, vol. 189, Feb. 1993.](link)
 
+>"Early in the twentieth century, technological advances in dam construction and in hydroelectric power production and transmission combined with federal policies encouraging settlement of the West by subsidizing irrigation set the stage for a prolonged period of development and rapidly growing use of western waters. This growth continued unabated for seven decades until most of the rivers had been tamed and were being used intensively for irrigation, municipalities, industry, and hydropower production. Although flooding was reduced, flood damage increased as a result of intensive development of the flood plains. These developments and a willingness to ignore their impacts on instream flows and the values they provide supported an illusion that water was not scarce."
+
 >"Water is universally underpriced, and engineering solutions are promoted to water resource problems that stem largely from poor management and misallocation of the resource. This paper examines the dIfficulties of and alternative approaches to balancing water demands with supplies under conditions of scarcity"
+
+>Globally, water resources are abundant and completely renewable. Regionally, natural supplies are limited, highly variable, and uncertain. Average annual precipitation varies from virtually nothing in the driest deserts to as much as 10 meters in some areas... While groundwater resources are less susceptible, they are not immune to variations attributable to the hydrologic cycle and climate..."
 
 > Rising water costs are inevitable for three reasons (Frederick, -199la).    
 >- First, as a river basin is developed, the best sites for storing water and generating hydropower are developed first.  
 >- Second There are also diminishing returns in the quantity of water controlled 'or the safe yield produced by successive increases in reservoir capacity.  
 >- Third, the opportunity costs of storing and diverting water increase as the number of free flowing streams declines and as the value society attaches to instream water uses rises.
-
->Globally, water resources are abundant and completely renewable. Regionally, natural supplies are limited, highly variable, and uncertain. Average annual precipitation varies from virtually nothing in the driest deserts to as much as 10 meters in some areas... While groundwater resources are less susceptible, they are not immune to variations attributable to the hydrologic cycle and climate..."
-
->"Early in the twentieth century, technological advances in dam construction and in hydroelectric power production and transmission combined with federal policies encouraging settlement of the West by subsidizing irrigation set the stage for a prolonged period of development and rapidly growing use of western waters. This growth continued unabated for seven decades until most of the rivers had been tamed and were being used intensively for irrigation, municipalities, industry, and hydropower production. Although flooding was reduced, flood damage increased as a result of intensive development of the flood plains. These developments and a willingness to ignore their impacts on instream flows and the values they provide supported an illusion that water was not scarce."
 
 
 
