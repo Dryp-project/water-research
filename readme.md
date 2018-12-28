@@ -75,7 +75,7 @@ _**Concluding RECOMMENDATIONs:**_
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-5. [Fredrick, Kenneth D. “Balancing Water Supplies and Demands: The Role of Management in a World of Increasing Scarcity.” World Bank Technical Paper, vol. 189, Feb. 1993.](link)
+5. [Fredrick, Kenneth D. “Balancing Water Supplies and Demands: The Role of Management in a World of Increasing Scarcity.” World Bank Technical Paper, vol. 189, Feb. 1993.](https://github.com/Dryp-project/water-research/blob/master/1993%20-%20Balancing%20Water%20Demands%20and%20Supplies%20-%20Role%20of%20management%20in%20a%20world%20of%20increasing%20Scarcity.pdf)
 
 >"Early in the twentieth century, technological advances in dam construction and in hydroelectric power production and transmission combined with federal policies encouraging settlement of the West by subsidizing irrigation set the stage for a prolonged period of development and rapidly growing use of western waters. This growth continued unabated for seven decades until most of the rivers had been tamed and were being used intensively for irrigation, municipalities, industry, and hydropower production. Although flooding was reduced, flood damage increased as a result of intensive development of the flood plains. These developments and a willingness to ignore their impacts on instream flows and the values they provide supported an illusion that water was not scarce."
 
@@ -90,27 +90,24 @@ _**Concluding RECOMMENDATIONs:**_
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-6. Rosegrant, Mark W, et al. “Global Water Outlook to 2025: Averting an Impending Crisis.” International Food Policy Research Institute: A 2020 Vision for Food, Agriculture, and the Environment Initiative, Sept. 2002
+6. [Rosegrant, Mark W, et al. “Global Water Outlook to 2025: Averting an Impending Crisis.” International Food Policy Research Institute: A 2020 Vision for Food, Agriculture, and the Environment Initiative, Sept. 2002](https://github.com/Dryp-project/water-research/blob/master/2002_Global%20Water%20Outlook%20to%202025-averting%20an%20impending%20crisis.pdf)
 
 >“...Hardest hit will be the world’s poorest people. The results from the model used in this report also show the consequences of changing the course of water policy. Further inattention to water-related investments and policies will produce a severe water crisis, which will lead in turn to a food crisis. A commitment to sustainable use of water, through appropriate policies and investments, however, will lead to a more water- and food-secure world. Water may be a scarce resource, but humans have developed many ways of using it more efficiently — that is, getting more from each unit of water. But water-saving policies, practices, and technologies are of no help if they are not used. Inappropriate incentives and institutions often hinder effective use of water.” 
-.....
 
-- International Food Policy Research Institute - research on water by 2025
-    - “...*Hardest hit will be the world’s poorest people.* The results from the model used in this report also show the consequences of changing the course of water policy. Further inattention to water-related investments and policies will produce a severe water crisis, which will lead in turn to a food crisis. A commitment to sustainable use of water, through appropriate policies and investments, however, will lead to a more water- and food-secure world. *Water may be a scarce resource, but humans have developed many ways of using it more efficiently — that is, getting more from each unit of water. But water-saving policies, practices, and technologies are of no help if they are not used. Inappropriate incentives and institutions often hinder effective use of water*.” -Abstract
-    - “...political opposition from those concerned about the impact of higher water prices on farmers’ income and from entrenched interests that benefit from existing systems of allocating water”
-        - “With slow growth in irrigation from surface water, farmers will expand pumping from groundwater, which is subject to low prices and little regulation. Regions that currently pump groundwater faster than aquifers can recharge, such as the western United States, northern China, northern and western India, Egypt, and West Asia and North Africa, will continue to do so. The cost of supplying water to domestic and industrial users will rise dramatically”
-    - Better delivery and more efficient home water use will lead to some increase in the proportion of households connected to piped water. Many households, however, will remain unconnected.
-        - Important! - If water crisis gets worse
-            - “As in the business as usual scenario, the rapid increase in urban populations will quickly raise demand for domestic water. But governments will lack the funds to extend piped water and sewage disposal to newcomers. *Governments will respond by privatizing urban water and sanitation services in a rushed and poorly planned fashion. The new private water and sanitation firms will be undercapitalized and able to do little to connect additional populations to piped water. An increasing number and percentage of the urban population must rely on high-priced water from vendors or spend many hours fetching often-dirty water from standpipes and wells.”*
-        - *Authors believe that “...Water prices for connected households will double, with targeted subsidies for low-income households. Revenues from price increases will be invested to reduce water losses in existing systems and to extend piped water to previously unconnected households.”*
-            - *“Raising water prices seems to make sense for several reasons. Higher water prices not only encourage all users to use water more efficiently, but also could generate funds to maintain existing water infrastructure and to build new infrastructure.Yet because of perceived political risks and concern that higher prices would hurt poor farmers and consumers, there have been few attempts to implement higher water prices. In fact, in most instances the poor suffer from current subsidized water prices because water subsidies in most countries go disproportionately to the better off: urban water users connected to the public system and irrigated farmers.*
-                - **Most countries’ political power are in the hands of the middle class - the consumers + political contributors**
-                - **Our System is a way for consumers to understand the importance of water pricing. -political selling point**
-            - “Water scarcity will get much worse if policy and investment commitments from national governments and international donors and development banks weaken further"
-                - That is why our system advocates self sufficiency where possible
-            - **CONCLUDING ADVOACY to the world**
+>“With slow growth in irrigation from surface water, farmers will expand pumping from groundwater, which is subject to low prices and little regulation. Regions that currently pump groundwater faster than aquifers can recharge, such as the western United States, northern China, northern and western India, Egypt, and West Asia and North Africa, will continue to do so. The cost of supplying water to domestic and industrial users will rise dramatically”
 
-“Expanding water supplies can help alleviate water scarcity, but the results show that the most promising avenue is likely to be water management reforms, incentive policies, and investments in infrastructure and technology to enhance efficiency in existing uses.”
+>“...political opposition from those concerned about the impact of higher water prices on farmers’ income and from entrenched interests that benefit from existing systems of allocating water..."
+        
+>"Better delivery and more efficient home water use will lead to some increase in the proportion of households connected to piped water. Many households, however, will remain unconnected."
+       
+>“As in the business as usual scenario, the rapid increase in urban populations will quickly raise demand for domestic water. But governments will lack the funds to extend piped water and sewage disposal to newcomers. *Governments will respond by privatizing urban water and sanitation services in a rushed and poorly planned fashion. The new private water and sanitation firms will be undercapitalized and able to do little to connect additional populations to piped water. An increasing number and percentage of the urban population must rely on high-priced water from vendors or spend many hours fetching often-dirty water from standpipes and wells.”*
+     
+>“...Water prices for connected households will double, with targeted subsidies for low-income households. Revenues from price increases will be invested to reduce water losses in existing systems and to extend piped water to previously unconnected households.”
+
+>“Expanding water supplies can help alleviate water scarcity, but the results show that the most promising avenue is likely to be water management reforms, incentive policies, and investments in infrastructure and technology to enhance efficiency in existing uses.”
+
+>**“Raising water prices seems to make sense for several reasons. Higher water prices not only encourage all users to use water more efficiently, but also could generate funds to maintain existing water infrastructure and to build new infrastructure.** **_Yet because of perceived political risks and concern that higher prices would hurt poor farmers and consumers, there have been few attempts to implement higher water prices. In fact, in most instances the poor suffer from current subsidized water prices because water subsidies in most countries go disproportionately to the better off: urban water users connected to the public system and irrigated farmers._**
+
 
 
 
