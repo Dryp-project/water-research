@@ -45,7 +45,7 @@ This readme will function as a guide to all the other documents in this reposito
 
 _**Concluding RECOMMENDATIONs:**_
 
--To appreciate the context within which water issues must be approached.
+- To appreciate the context within which water issues must be approached.
 
 - To recognize that the various issues of water are interrelated - and with growing demand and, in general, decreasing supply, competition between uses and users is increasing, requiring greater wisdom in allocation of the resource.
 
