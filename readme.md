@@ -108,6 +108,14 @@ _**Concluding RECOMMENDATIONs:**_
 
 >**“Raising water prices seems to make sense for several reasons. Higher water prices not only encourage all users to use water more efficiently, but also could generate funds to maintain existing water infrastructure and to build new infrastructure.** **_Yet because of perceived political risks and concern that higher prices would hurt poor farmers and consumers, there have been few attempts to implement higher water prices. In fact, in most instances the poor suffer from current subsidized water prices because water subsidies in most countries go disproportionately to the better off: urban water users connected to the public system and irrigated farmers._**
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
+7. [United States, Congress, “Water for a Sustainable World: the United Nations World Water Development Report 2015.” Water for a Sustainable World: the United Nations World Water Development Report 2015, United Nations Educational, Scientific and Cultural Organization, 2015.](https://github.com/Dryp-project/water-research/blob/master/2015_Water_for_a_sustainable_world.pdf)
+
+>This report comes at a critical moment, when freshwater resources face rising pressure to provide for the social, economic and
+environmental needs of a growing world population. 2015 is also a year of high expectations and hopes, as the deadline for
+the Millennium Development Goals, and when States will define a new global sustainable development agenda to follow.
+
 
 
 
