@@ -117,5 +117,12 @@ environmental needs of a growing world population. 2015 is also a year of high e
 the Millennium Development Goals, and when States will define a new global sustainable development agenda to follow.
 
 
+8. [KARNATAKA ACT NO. 19 OF 2009 - THE BANGALORE WATER SUPPLY AND SEWERAGE (AMENDMENT) ACT, 2009](https://github.com/Dryp-project/water-research/blob/master/Bagnalorelegislation.pdf)
+
+>Amending Act 19 of 2009.— It is considered necessary to provide for making it mandatory to build rainwater harvesting structure by households in order to preserve the groundwater by amending the Bangalore Water Supply and Sewerage Act, 1964
+
+>“72A. Obligation to provide rain water harvesting structure.- Within nine months from the date of commencement of the Bangalore Water Supply and Sewerage (Amendment) Act, 2009, every owner or occupier of a building having a sital area of 2400 square feet and above or every owner who propose to construct a building on a sital area of 1200 square feet and above, shall provide for rain water harvesting structure in such manner, with such conditions as may be provided in the regulations, failing which the Board may cause such rain water harvesting structure and recover the cost from the owner or occupier, as the case may be, as arrears of land revenue".
+
+
 
 
